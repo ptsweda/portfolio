@@ -19,20 +19,22 @@
 - Developed and compared the performance of user-based and item-based collaborative filtering models for book recommendations using R/Python
 - Implemented association rules analysis to uncover meaningful patterns and provided the top three most useful rules
 - Documented the project findings, methodologies, and model evaluations in a detailed report with well-commented code, and presented the outcomes and insights to stakeholders through a comprehensive presentation using clear visuals
-- [Link](https://github.com/ptsweda/Build-a-Recommendation-Model-for-Goodreads.git)
+- [Link to Paper & Code](https://github.com/ptsweda/Build-a-Recommendation-Model-for-Goodreads.git)
 
 **Project: Demand Forecasting for Wilkins, A Zurn Company**
 - Analyzed and assessed the current demand forecasting method at Wilkins, A Zurn Company, identifying inaccuracies in the existing model and its impact on business operations
 - Investigated the relationship between PVB product family demand and external economic indicators such as unemployment rate, bank prime loan rate, and housing starts, to enhance forecasting accuracy
 - Developed demand forecasts for the PVB product family using multiple statistical methods, including naïve forecast, moving average, and ARIMA models, and evaluated their performance against current forecasting practices
 - Compiled a comprehensive report detailing problem statements, analytical approaches, results, and managerial recommendations to improve forecast accuracy and reliability, supported by clear visuals and well-commented code
+- [Link to Paper & Code](https://github.com/ptsweda/Demand-Forecasting-for-Wilkins-A-Zurn-Company.git)
   
 **Project: Exploring Texas Housing Data with SQL**
 - Utilized SQL in Jupyter Notebook to query Texas housing market data, extracting meaningful insights such as identifying high sales periods and analyzing annual trends
 - Employed SQL techniques to filter data, calculate mean annual sales by city and year, and identify the highest and lowest sales periods, excluding specific cities
 - Conducted complex SQL operations including grouping, ordering, and limiting results to identify trends and patterns in the housing market, such as determining the months with the highest and lowest sales
 - Documented and presented the findings using Markdown in Jupyter Notebook, ensuring a clear and comprehensive report with code snippets to illustrate the data analysis process
-
+- [Link to SQL Code](https://github.com/ptsweda/Exploring-Texas-Housing-Data-with-SQL.git)
+  
 ## Work Experience
 **Client Success Support Specialist @ AFFIRM INC. (_Jul 2021 – Feb 2023_)**
 - Developed a portfolio of merchant partners ranging from $1 million to $300 million in total addressable sales
