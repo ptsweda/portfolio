@@ -1,6 +1,7 @@
 # Data Sientist
 
 #### TECHNICAL SKILLS: R, Python, SQL, AWS
+#### Additional Skills: Machine Learning, Big Data (statistical analysis, data mining and modeling, database management)
 
 ## Education
 - Master of Science in Business Analytics (_May 2025_)
