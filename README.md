@@ -24,7 +24,7 @@
 - Investigated the relationship between PVB product family demand and external economic indicators such as unemployment rate, bank prime loan rate, and housing starts, to enhance forecasting accuracy
 - Developed demand forecasts for the PVB product family using multiple statistical methods, including naïve forecast, moving average, and ARIMA models, and evaluated their performance against current forecasting practices
 - Compiled a comprehensive report detailing problem statements, analytical approaches, results, and managerial recommendations to improve forecast accuracy and reliability, supported by clear visuals and well-commented code
-- 
+  
 **Project: Exploring Texas Housing Data with SQL**
 - Utilized SQL in Jupyter Notebook to query Texas housing market data, extracting meaningful insights such as identifying high sales periods and analyzing annual trends
 - Employed SQL techniques to filter data, calculate mean annual sales by city and year, and identify the highest and lowest sales periods, excluding specific cities
@@ -32,17 +32,17 @@
 - Documented and presented the findings using Markdown in Jupyter Notebook, ensuring a clear and comprehensive report with code snippets to illustrate the data analysis process
 
 ## Work Experience
-**Client Success Support Specialist @ AFFIRM INC. (_Jul 2021 – Feb 2023_)
+**Client Success Support Specialist @ AFFIRM INC. (_Jul 2021 – Feb 2023_)**
 - Developed a portfolio of merchant partners ranging from $1 million to $300 million in total addressable sales
 - Led a team through a marketing campaign, resulting in a 15% increase in gross merchandise value for targeted merchants in fiscal year 2023 (~ $1.7m uplift in GMV)
 - Regularly reviewed performance using SQL/Snowflake queries and provided analysis using Looker tables to key merchant contacts to maintain overall merchant satisfaction
 
-**Sr. Operations Specialist  @ AFFIRM INC. (_May 2019 – Jul 2021_)
+**Sr. Operations Specialist  @ AFFIRM INC. (_May 2019 – Jul 2021_)**
 - Collaborated cross-functionally to build the Merchant Analysis & Trend monthly report shared with key stakeholders
 - Created reports to analyze data for key business relationships with major clients such as Walmart
 - Presented key metrics and recommendations to the leadership team and worked with Compliance to update reporting processes
 
-**Sales Operations Coordinator @ SPECK PRODUCTS (_Aug 2017 – May 2019_)
+**Sales Operations Coordinator @ SPECK PRODUCTS (_Aug 2017 – May 2019_)**
 - Led the strategic rollout of a new Product Information Management (PIM) system 'Salsify', improving product content management and customer data demands
 - Created official monthly goal tracking dashboards for the sales team and executive level
 - Developed company-wide presentations and dashboards on sales progress and trend
