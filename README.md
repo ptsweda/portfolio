@@ -19,6 +19,7 @@
 - Developed and compared the performance of user-based and item-based collaborative filtering models for book recommendations using R/Python
 - Implemented association rules analysis to uncover meaningful patterns and provided the top three most useful rules
 - Documented the project findings, methodologies, and model evaluations in a detailed report with well-commented code, and presented the outcomes and insights to stakeholders through a comprehensive presentation using clear visuals
+- [Link](https://github.com/ptsweda/Build-a-Recommendation-Model-for-Goodreads.git)
 
 **Project: Demand Forecasting for Wilkins, A Zurn Company**
 - Analyzed and assessed the current demand forecasting method at Wilkins, A Zurn Company, identifying inaccuracies in the existing model and its impact on business operations
