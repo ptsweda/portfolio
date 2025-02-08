@@ -47,6 +47,8 @@ Bachelor of Science in International Business, May 2017
 - [Link to SQL Code](https://github.com/ptsweda/Exploring-Texas-Housing-Data-with-SQL.git)
   
 ## Work Experience
+
+![Affirm Logo][(/assets/GFDRR.png)](https://github.com/ptsweda/portfolio/blob/6614d2b88728ff63665a08e4caaeb78e9c71aa0b/Assets/affirm%20logo.png)
 **Client Success Support Specialist @ AFFIRM INC. (_Jul 2021 – Feb 2023_)**
 - Developed a portfolio of merchant partners ranging from $1 million to $300 million in total addressable sales
 - Led a team through a marketing campaign, resulting in a 15% increase in gross merchandise value for targeted merchants in fiscal year 2023 (~ $1.7m uplift in GMV)
