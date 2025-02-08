@@ -23,7 +23,7 @@ Bachelor of Science in International Business, May 2017
 - Integrated diverse datasets on healthcare access, socioeconomic indicators, and geospatial data to create a comprehensive analysis framework for disaster preparedness.
 - Developed a Risk Index using machine learning and KMeans clustering to assess vulnerability levels in Colombian municipalities impacted by earthquakes.
 - Provide evidence-based recommendations for enhancing disaster preparedness, response, and resilience in the face of climate-induced health risks
-  ![World_Bank]((https://github.com/ptsweda/portfolio/blob/04b5316d4962c36361a450c44f7b6258724a0023/Assets/GFDRR.png))
+  ![image alt](https://github.com/ptsweda/portfolio/blob/04b5316d4962c36361a450c44f7b6258724a0023/Assets/GFDRR.png)
 
 **Project: Build a Recommendation Model for Goodreads**
 - Conducted exploratory data analysis and pre-processed the Goodreads dataset by removing duplicate records and irrelevant entries to ensure data quality
