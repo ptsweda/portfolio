@@ -63,7 +63,7 @@ Bachelor of Science in International Business, May 2017
 - Created reports to analyze data for key business relationships with major clients such as Walmart
 - Presented key metrics and recommendations to the leadership team and worked with Compliance to update reporting processes
 
-![Speck Logo][(https://github.com/ptsweda/portfolio/blob/78f41074bd12ec61ede125039925149563d4c464/Assets/speck%20logo.png)
+![Speck Logo](https://github.com/ptsweda/portfolio/blob/78f41074bd12ec61ede125039925149563d4c464/Assets/speck%20logo.png)
 
 **Sales Operations Coordinator @ SPECK PRODUCTS (_Aug 2017 – May 2019_)**
 - Led the strategic rollout of a new Product Information Management (PIM) system 'Salsify', improving product content management and customer data demands
