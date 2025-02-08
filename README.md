@@ -4,10 +4,12 @@
 #### Additional Skills: Machine Learning, Big Data Statistical Analysis, Data Mining and Modeling, Database Management
 
 ## Education
--  GEORGETOWN UNIVERSITY, McDonough School of Business 
+-  **GEORGETOWN UNIVERSITY, McDonough School of Business 
 Washington, DC 
 Master of Science in Business Analytics, Dec 2024
-- Bachelor of Science in International Business (_May 2017_)
+- **SAN FRANCISCO STATE UNIVERSITY 
+San Francisco, CA 
+Bachelor of Science in International Business, May 2017
 
 ## Projects
 **CapStone Project working with The World Bank: Climate and Disaster Risk Management for Health Systems: A Data-Driven Artificial Intelligence Approach**
