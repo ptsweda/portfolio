@@ -4,10 +4,10 @@
 #### Additional Skills: Machine Learning, Big Data Statistical Analysis, Data Mining and Modeling, Database Management
 
 ## Education
--  **GEORGETOWN UNIVERSITY, McDonough School of Business 
+**GEORGETOWN UNIVERSITY, McDonough School of Business 
 Washington, DC 
 Master of Science in Business Analytics, Dec 2024
-- **SAN FRANCISCO STATE UNIVERSITY 
+**SAN FRANCISCO STATE UNIVERSITY 
 San Francisco, CA 
 Bachelor of Science in International Business, May 2017
 
