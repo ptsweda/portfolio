@@ -7,6 +7,7 @@
 **GEORGETOWN UNIVERSITY, McDonough School of Business**
 Washington, DC 
 Master of Science in Business Analytics, Dec 2024
+
 **SAN FRANCISCO STATE UNIVERSITY** 
 San Francisco, CA 
 Bachelor of Science in International Business, May 2017
