@@ -1,7 +1,12 @@
 # Data Sientist
 
-#### TECHNICAL SKILLS: R, Python, SQL, AWS
-#### Additional Skills: Machine Learning, Big Data Statistical Analysis, Data Mining and Modeling, Database Management
+#### TECHNICAL SKILLS: 
+ ● Programming:Python (including Scikit-Learn), R, SQL, AWS
+ ● Machine Learning: Supervised/Unsupervised Learning, Bayesian statistics, Deep 
+Learning (PyTorch)
+ ● Big Data: Apache Spark, Data Wrangling, Statistical Analysis, Data Mining, Model 
+Deployment
+ ● Other: Data Visualization (Looker, SQL), Time-Series Analysis, Causal Inference
 
 ## Education
 **GEORGETOWN UNIVERSITY, McDonough School of Business**
