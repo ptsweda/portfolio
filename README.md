@@ -26,10 +26,10 @@ Bachelor of Science in International Business, May 2017
  ![image alt](https://github.com/ptsweda/portfolio/blob/main/Assets/GFDRR.png?raw=true)
  
 **CapStone Project working with The World Bank: Climate and Disaster Risk Management for Health Systems: A Data-Driven Artificial Intelligence Approach**
-- Investigate the causal relationship between climate-based hazards, specifically earthquakes, and excess health service demand, mortality rates, and costs
+- Investigated the causal relationship between climate-based hazards, specifically earthquakes, and excess health service demand, mortality rates, and costs
 - Integrated diverse datasets on healthcare access, socioeconomic indicators, and geospatial data to create a comprehensive analysis framework for disaster preparedness.
 - Developed a Risk Index using machine learning and KMeans clustering to assess vulnerability levels in Colombian municipalities impacted by earthquakes.
-- Provide evidence-based recommendations for enhancing disaster preparedness, response, and resilience in the face of climate-induced health risks
+- Provided evidence-based recommendations for enhancing disaster preparedness, response, and resilience in the face of climate-induced health risks
 
 
 **Project: Build a Recommendation Model for Goodreads**
