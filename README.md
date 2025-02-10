@@ -1,8 +1,8 @@
 # Data Sientist
 ## About Me
-*I’m motivated by solving complex problems through data and uncovering insights that drive meaningful business decisions. Throughout my career—whether at Affirm, where I enhanced merchant analytics, or during my World Bank capstone project, where I used machine learning to assess disaster impacts—I’ve been passionate about turning raw data into actionable strategies.*
+*"I’m motivated by solving complex problems through data and uncovering insights that drive meaningful business decisions. Throughout my career—whether at Affirm, where I enhanced merchant analytics, or during my World Bank capstone project, where I used machine learning to assess disaster impacts—I’ve been passionate about turning raw data into actionable strategies.*
 
-*Beyond that, I’m driven by continuous learning and collaboration. I enjoy working with cross-functional teams, sharing insights, and refining models to optimize efficiency. Seeing the direct impact of data-driven solutions on business success or societal challenges keeps me engaged and eager to take on new challenges.*
+*Beyond that, I’m driven by continuous learning and collaboration. I enjoy working with cross-functional teams, sharing insights, and refining models to optimize efficiency. Seeing the direct impact of data-driven solutions on business success or societal challenges keeps me engaged and eager to take on new challenges."*
 
 #### TECHNICAL SKILLS: 
 - Programming:Python (including Scikit-Learn), R, SQL, AWS
