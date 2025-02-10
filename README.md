@@ -64,7 +64,6 @@ Bachelor of Science in International Business, May 2017
 - Presented key metrics and recommendations to the leadership team and worked with Compliance to update reporting processes
 
 ![Speck Logo](https://github.com/ptsweda/portfolio/blob/main/Assets/speck%20logo.png?raw=true)
-
 **Sales Operations Coordinator @ SPECK PRODUCTS (_Aug 2017 – May 2019_)**
 - Led the strategic rollout of a new Product Information Management (PIM) system 'Salsify', improving product content management and customer data demands
 - Created official monthly goal tracking dashboards for the sales team and executive level
