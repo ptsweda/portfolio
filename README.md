@@ -19,7 +19,7 @@ Bachelor of Science in International Business, May 2017
 
 ## Projects
 
- ![image alt](https://github.com/ptsweda/portfolio/blob/04b5316d4962c36361a450c44f7b6258724a0023/Assets/GFDRR.png)
+ ![image alt](https://github.com/ptsweda/portfolio/blob/main/Assets/GFDRR.png?raw=true)
  
 **CapStone Project working with The World Bank: Climate and Disaster Risk Management for Health Systems: A Data-Driven Artificial Intelligence Approach**
 - Investigate the causal relationship between climate-based hazards, specifically earthquakes, and excess health service demand, mortality rates, and costs
@@ -51,7 +51,7 @@ Bachelor of Science in International Business, May 2017
   
 ## Work Experience
 
-![Affirm Logo](https://github.com/ptsweda/portfolio/blob/6614d2b88728ff63665a08e4caaeb78e9c71aa0b/Assets/affirm%20logo.png)
+![Affirm Logo](https://github.com/ptsweda/portfolio/blob/main/Assets/affirm%20logo.png?raw=true)
 
 **Client Success Support Specialist @ AFFIRM INC. (_Jul 2021 – Feb 2023_)**
 - Developed a portfolio of merchant partners ranging from $1 million to $300 million in total addressable sales
@@ -63,7 +63,7 @@ Bachelor of Science in International Business, May 2017
 - Created reports to analyze data for key business relationships with major clients such as Walmart
 - Presented key metrics and recommendations to the leadership team and worked with Compliance to update reporting processes
 
-![Speck Logo](https://github.com/ptsweda/portfolio/blob/78f41074bd12ec61ede125039925149563d4c464/Assets/speck%20logo.png)
+![Speck Logo](https://github.com/ptsweda/portfolio/blob/main/Assets/speck%20logo.png?raw=true)
 
 **Sales Operations Coordinator @ SPECK PRODUCTS (_Aug 2017 – May 2019_)**
 - Led the strategic rollout of a new Product Information Management (PIM) system 'Salsify', improving product content management and customer data demands
