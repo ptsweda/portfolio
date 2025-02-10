@@ -5,7 +5,7 @@
 *Beyond that, I’m driven by continuous learning and collaboration. I enjoy working with cross-functional teams, sharing insights, and refining models to optimize efficiency. Seeing the direct impact of data-driven solutions on business success or societal challenges keeps me engaged and eager to take on new challenges."*
 
 #### TECHNICAL SKILLS: 
-- Programming:Python (including Scikit-Learn), R, SQL, AWS
+- Programming: Python (including Scikit-Learn), R, SQL, AWS
 - Machine Learning: Supervised/Unsupervised Learning, Bayesian statistics, Deep 
 Learning (PyTorch)
 - Big Data: Apache Spark, Data Wrangling, Statistical Analysis, Data Mining, Model 
@@ -25,10 +25,10 @@ Bachelor of Science in International Business, May 2017
 
  ![image alt](https://github.com/ptsweda/portfolio/blob/main/Assets/GFDRR.png?raw=true)
  
-**CapStone Project working with The World Bank: Climate and Disaster Risk Management for Health Systems: A Data-Driven Artificial Intelligence Approach**
+**Capstone Project working with The World Bank: Climate and Disaster Risk Management for Health Systems: A Data-Driven Artificial Intelligence Approach**
 - Investigated the causal relationship between climate-based hazards, specifically earthquakes, and excess health service demand, mortality rates, and costs
 - Integrated diverse datasets on healthcare access, socioeconomic indicators, and geospatial data to create a comprehensive analysis framework for disaster preparedness.
-- Developed a Risk Index using machine learning and KMeans clustering to assess vulnerability levels in Colombian municipalities impacted by earthquakes.
+- Developed a Risk Index using machine learning and K-Means clustering to assess vulnerability levels in Colombian municipalities impacted by earthquakes.
 - Provided evidence-based recommendations for enhancing disaster preparedness, response, and resilience in the face of climate-induced health risks
 - [Link to Paper](https://github.com/ptsweda/portfolio/blob/7709c168907cc58a24278c2c9fb8b1d93ba7e937/Assets/Report_Colombia.pdf)
 
@@ -72,5 +72,5 @@ Bachelor of Science in International Business, May 2017
 **Sales Operations Coordinator @ SPECK PRODUCTS (_Aug 2017 – May 2019_)**
 - Led the strategic rollout of a new Product Information Management (PIM) system 'Salsify', improving product content management and customer data demands
 - Created official monthly goal tracking dashboards for the sales team and executive level
-- Developed company-wide presentations and dashboards on sales progress and trend
+- Developed company-wide presentations and dashboards on Sales progress and trends
 
