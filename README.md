@@ -1,4 +1,4 @@
-# Data Sientist
+# Data Scientist
 ## About Me
 *"I’m motivated by solving complex problems through data and uncovering insights that drive meaningful business decisions. Throughout my career—whether at Affirm, where I enhanced merchant analytics, or during my World Bank capstone project, where I used machine learning to assess disaster impacts—I’ve been passionate about turning raw data into actionable strategies.*
 
